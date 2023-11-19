@@ -1,0 +1,6 @@
+{
+  "entrypoint": "de.geolykt.cdl.CDLExtension",
+  "name": "CustomDynastyLimiter",
+  "version": "1.1.0",
+  "dependencies": [ "StarloaderAPI" ]
+}
